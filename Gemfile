@@ -11,7 +11,7 @@ gem "aws-sdk-s3"
 
 gem 'active_model_serializers'
 
-gem "rack-cors", "~> 1.1"
+gem "rack-cors", :require => 'rack/cors'
 
 gem "rack-contrib", "~> 2.3"
 
