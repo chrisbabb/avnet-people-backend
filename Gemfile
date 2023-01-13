@@ -7,7 +7,7 @@ gem 'pluck_to_hash'
 
 gem 'jwt'
 
-gem "aws-sdk-s3", require: false
+gem "aws-sdk-s3"
 
 gem 'active_model_serializers'
 
