@@ -7,6 +7,8 @@ gem 'pluck_to_hash'
 
 gem 'jwt'
 
+gem "aws-sdk-s3", require: false
+
 gem 'active_model_serializers'
 
 gem "rack-cors", "~> 1.1"
