@@ -1,7 +1,7 @@
 require "active_support/core_ext/integer/time"
 
 Rails.application.routes.default_url_options = {
-  host: 'https://oyster-app-7q899.ondigitalocean.app/avnet-people-backend/'
+  host: 'https://oyster-app-7q899.ondigitalocean.app/avnet-people-backend'
 }
 
 Rails.application.configure do
